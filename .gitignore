@@ -182,3 +182,6 @@ products_vectorstore/
 # ignore optimized C++ code from being checked into repo
 week4/optimized
 week4/simple
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
